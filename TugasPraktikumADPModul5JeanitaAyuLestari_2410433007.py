@@ -56,6 +56,7 @@ for i in range(len(nama_tertinggi)):
     print("Nilai akhir\t:", nilai_tertinggi)
 print()
 
+print("Nilai terendah di peroleh oleh :")
 for i in range(len(nama_terendah)):
     print("Nama\t\t:", nama_terendah[i])
     print("Nilai akhir\t:", nilai_terendah)
